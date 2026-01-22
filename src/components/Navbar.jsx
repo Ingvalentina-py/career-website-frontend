@@ -14,6 +14,7 @@ export default function Navbar() {
             {[
               { name: "About", href: "#about" },
               { name: "Skills", href: "#skills" },
+              { name: "Talks", href: "talks" },
               { name: "Projects", href: "#projects" },
               { name: "Contact", href: "#contact" },
             ].map((link) => (

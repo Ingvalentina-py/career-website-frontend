@@ -5,6 +5,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Talks from "./components/Talks";
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
           <Hero />
           <About />
           <Skills />
+          <Talks />
           <Projects />
           <Contact />
         </main>
